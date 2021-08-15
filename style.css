@@ -1,0 +1,40 @@
+body{
+    direction: rtl;
+    font-family: 'dana-fanum' !important;
+}
+
+.large{
+    font-size: 30px !important;
+    margin-left: 50px !important;
+}
+
+.price{
+    margin-top: 7px;
+}
+
+.center{
+    text-align: center !important;
+    margin: auto;
+}
+
+.center-align{
+    text-align: center !important;
+}
+
+.like{
+    font-size: 30px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.bookmark{
+    font-size: 30px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.share{
+    font-size: 30px;
+    cursor: pointer;
+    margin-right: 10px;
+}
